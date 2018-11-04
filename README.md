@@ -1,2 +1,2 @@
 # xiaoming-app
-xiaoming app
+小明app
